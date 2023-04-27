@@ -41,7 +41,7 @@ pip install git+https://github.com/TAO-Dataset/tao.git
 
 ## Dataset
 The dataset is available at [Google Drive](https://drive.google.com/file/d/1bBWajjm_rTDTHDhZzecKMrGgTq0gjP79/view?usp=sharing) 
-or [Baidu Drive](https://pan.baidu.com/s/1uzUcogD1UyjY0S9D2EeZSA) (code: 1897) 
+or [Baidu Drive](https://pan.baidu.com/s/1uzUcogD1UyjY0S9D2EeZSA) (code: All the datasets will be opened after the publication of the paper. If necessary, you can also contact us directly!**) 
 
 If use the dataset, please cite the following paper: 
 ```bibtex
