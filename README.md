@@ -1,5 +1,7 @@
 # OD-AT
-The official implementation code for the paper "Object Detection with Attribute Tagging Task: Model Design and Evaluation on Agricultural Datasets"
+The official implementation code for the paper "Object Detection with Attribute Tagging Task: Model Design and Evaluation on Agricultural Datasets". **All the code will be submitted after the publication of the paper. If necessary, you can also contact us directly!**
+
+
 
 ## Installation
 This project is based on [mmdetection](https://github.com/open-mmlab/mmdetection) and [mmtracking](https://github.com/open-mmlab/mmtracking). So you can refer to [mmdetection installation docs](https://mmdetection.readthedocs.io/en/3.x/get_started.html) and [mmtracking installation docs](https://github.com/open-mmlab/mmtracking/blob/master/docs/en/install.md) for installation and dataset preparation.
